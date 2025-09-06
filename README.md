@@ -1,6 +1,6 @@
 # 🌍 Satellite Imagery Change Detection
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Vedik-Kothari/satellite-change-](https://colab.research.google.com/github/Vedik-Kothari/Satellite_Change_Detection/blob/main/Satellite_Change_Detection.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vedik-Kothari/Satellite_Change_Detection/blob/main/Satellite_Change_Detection.ipynb)
 👤 Maintainer: **Vedik Kothari** ([@Vedik-Kothari](https://github.com/Vedik-Kothari))
 
 
