@@ -1,7 +1,7 @@
 # 🌍 Satellite Imagery Change Detection
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/satellite-change-detection/blob/main/Satellite_Change_Detection.ipynb)
-👤 Maintainer: Vedik Kothari ([Vedik-Kothari]((https://github.com/Vedik-Kothari))
+👤 Maintainer: Vedik Kothari ([Vedik-Kothari])((https://github.com/Vedik-Kothari))
 
 
 **Unsupervised NDVI-based change detection** using Sentinel-2 imagery and Google Earth Engine.  
