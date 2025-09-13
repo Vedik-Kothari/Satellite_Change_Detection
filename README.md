@@ -14,7 +14,7 @@ Detects vegetation loss/gain between two time periods and clusters NDVI values (
 - Fetches **Sentinel-2 Harmonized** imagery from Google Earth Engine
 - Computes **NDVI** for two user-defined periods
 - Highlights vegetation **loss/gain/stable** areas
-- **K-Means clustering** of NDVI values (unsupervised ML)
+- **K-Means clustering** of NDVI values
 - Outputs: change statistics (CSV), bar charts, cluster histograms, GeoTIFFs
 
 ---
